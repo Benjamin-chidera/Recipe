@@ -1,2 +1,2 @@
-# Recipe
+# recipe-app
  
